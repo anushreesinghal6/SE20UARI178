@@ -6,3 +6,7 @@ Rationale: The DHT22 sensor is chosen for its ability to accurately measure temp
 making it suitable for a variety of applications, including monitoring body temperature.
 Use Case: Monitoring Palm Temperature for Health Check
 Scenario: Checking the temperature of your palm for potential health monitoring purposes.
+
+
+Anushree
+SE20UARI178
